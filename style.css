@@ -1,0 +1,51 @@
+h1{
+	background-color:red;
+}
+h2{
+	background-color:white;
+}
+h3{
+	background-color:yellow;
+}
+h4{
+	background-color:green;
+}
+h5{
+	background-color:violet;
+}
+h6{
+	background-color:brown;
+}
+body{
+	background-color:blue;
+}
+.para1{
+	font-family: 'Charmonman', cursive;
+	background-color:indigo;
+	font-size: 20px;
+	color: white;
+}
+.para2{
+	font-family: 'Kodchasan', sans-serif;
+	background-color:green;
+	font-size: 20px;
+	color: white;
+}
+.para3{
+	
+
+    font-family: 'Indie Flower', cursive;
+	background-color:brown;
+	font-size: 20px;
+	color: white;
+}
+.hypertext{
+	background-color: black;
+font-size: 25px;
+	color: white;
+}
+
+.fa-facebook{
+	font-size: 150px;
+	color:black;
+}

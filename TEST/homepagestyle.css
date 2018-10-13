@@ -1,0 +1,39 @@
+.title{
+		text-align: center;
+}
+
+.h1{	text-align: center;}
+.h2{	text-align: center;}
+.h3{	text-align: center;}
+
+.para1{
+
+    font-family: 'Indie Flower', cursive;
+	background-color: blue;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+
+.para2{
+
+    font-family: 'Indie Flower', cursive;
+	background-color: black;
+	font-size: 35px;
+	color: white;
+	text-align: center;
+}
+
+.para3{
+
+    font-family: 'Indie Flower', cursive;
+	background-color: brown;
+	font-size: 45px;
+	color: white;
+    font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+.fas {
+	color: white;
+}
